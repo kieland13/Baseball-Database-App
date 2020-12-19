@@ -1,0 +1,14 @@
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\Baseball.mdf
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\Baseball_log.ldf
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\BaseballDatabaseApp.dll.config
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\BaseballDatabaseApp.dll
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\BaseballDatabaseApp.pdb
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\EntityFramework.dll
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\EntityFramework.xml
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\obj\Debug\BaseballDatabaseApp.csprojAssemblyReference.cache
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\obj\Debug\BaseballDatabaseApp.csproj.CoreCompileInputs.cache
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\obj\Debug\BaseballDatabaseApp.csproj.CopyComplete
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\obj\Debug\BaseballDatabaseApp.dll
+E:\DCTC\Fall2020\NET2\BaseballDatabaseApp\BaseballDatabaseApp\obj\Debug\BaseballDatabaseApp.pdb
